@@ -1,3 +1,3 @@
-module github.com/swallowstalker/dummypackage/v2
+module github.com/swallowstalker/dummypackage
 
 go 1.12
