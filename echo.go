@@ -6,3 +6,7 @@ func Echo(s string) string {
 	fmt.Println("Echo print this string: " + s)
 	return "Echo print this string: " + s
 }
+
+func Print(s string) {
+	fmt.Println("Print result: " + s)
+}
