@@ -14,3 +14,7 @@ func Print(s string) {
 func Print2(s string) {
 	fmt.Println("Print2 result: " + s)
 }
+
+func Print3(s string) {
+	fmt.Println("Print3 result: " + s)
+}
